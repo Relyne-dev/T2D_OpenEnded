@@ -1,0 +1,12 @@
+{
+    "name": "HandControls",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "c2369059-1935-413a-9537-e4ec94b56f97",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
